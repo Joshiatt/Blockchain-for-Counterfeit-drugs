@@ -1,4 +1,4 @@
-# Blockchain-for-Counterfeit-drugs using Hyperledger
+# Blockchain-for-Detecting-Counterfeit-drugs using Hyperledger
 Major negative implications of drug counterfeiting: 
   1. It results in a section of the society suffering from health issues. 
 
